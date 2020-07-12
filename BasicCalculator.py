@@ -1,6 +1,3 @@
-#This is an edit that I'm making from a local repo.
-#This is a second edit I'm making from a local repo. 
-#This is the third edit I'm making from a local repo.
 keep_going = True#boolean statement that we use for the outermost while loop
 while keep_going:# the outermost while loop keeps going as long as "keep_going" boolean is true
     entry = False# this establishes a boolean for entry
